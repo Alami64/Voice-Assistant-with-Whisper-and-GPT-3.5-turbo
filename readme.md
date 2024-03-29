@@ -1,4 +1,4 @@
-# Voice Assistant with Whisper and GPT-3.5-turbo-1106
+# Voice Assistant with Whisper and GPT-3.5-turbo
 
 This project is a voice assistant that utilizes the Whisper speech recognition model for transcribing user speech and the OpenAI GPT-3.5-turbo-1106 language model for generating responses. It listens for a wake word, processes the user's speech, and provides a spoken response using text-to-speech.
 
